@@ -38,7 +38,3 @@ Then, in a new terminal window, start the client by connecting to the server's I
 \```bash
 ./client 
 \```
-
-## Contributing
-
-Contributions to this project are welcome. Please ensure to follow coding standards and add comments to your code for clarity.
