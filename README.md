@@ -19,7 +19,7 @@ This project implements a basic TCP client-server architecture with custom conso
 
 To compile the project, ensure you have a C compiler installed and run the following command in the terminal:
 
-\```bash
+\```$
 make
 \```
 
@@ -29,12 +29,12 @@ This will use the `Makefile` to compile all necessary files and produce executab
 
 After compilation, you can start the server and client applications. First, run the server:
 
-\```bash
+\```$
 ./server
 \```
 
 Then, in a new terminal window, start the client by connecting to the server's IP and port:
 
-\```bash
+\```$
 ./client 
 \```
